@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{0A6FFE9D-8B3E-4F14-AC34-5A7446B47EC8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestCosmosSQL/Controllers/ItemController.cs">
+    <Files>
+      <File FileName="TestCosmosSQL/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="TestCosmosSQL/Models/Item.cs" Line="6" Column="22" />
+      <File FileName="TestCosmosSQL/Views/Item/Index.ascx" Line="1" Column="1" />
+      <File FileName="TestCosmosSQL/Controllers/ItemController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TestCosmosSQL PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.TestCosmosSQL.Tests FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>

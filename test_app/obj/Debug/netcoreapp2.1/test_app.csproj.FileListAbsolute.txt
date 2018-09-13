@@ -1,0 +1,11 @@
+/Users/tedliu/test_app/bin/Debug/netcoreapp2.1/test_app.deps.json
+/Users/tedliu/test_app/bin/Debug/netcoreapp2.1/test_app.runtimeconfig.json
+/Users/tedliu/test_app/bin/Debug/netcoreapp2.1/test_app.runtimeconfig.dev.json
+/Users/tedliu/test_app/bin/Debug/netcoreapp2.1/test_app.dll
+/Users/tedliu/test_app/bin/Debug/netcoreapp2.1/test_app.pdb
+/Users/tedliu/test_app/obj/Debug/netcoreapp2.1/test_app.csprojAssemblyReference.cache
+/Users/tedliu/test_app/obj/Debug/netcoreapp2.1/test_app.csproj.CoreCompileInputs.cache
+/Users/tedliu/test_app/obj/Debug/netcoreapp2.1/test_app.AssemblyInfoInputs.cache
+/Users/tedliu/test_app/obj/Debug/netcoreapp2.1/test_app.AssemblyInfo.cs
+/Users/tedliu/test_app/obj/Debug/netcoreapp2.1/test_app.dll
+/Users/tedliu/test_app/obj/Debug/netcoreapp2.1/test_app.pdb
